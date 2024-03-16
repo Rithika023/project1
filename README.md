@@ -1,2 +1,2 @@
 # project1
-emotion-recognition-using-eeg-signals
+Simple-HR page to accept or reject the leave proposal
