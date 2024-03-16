@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name":"Rithika",
+        "department":"Artificial Intelligence",
+        "Reason":"I trust this message finds you well. I am writing to inform you that I am unwell and have been diagnosed with a fever. As a result, I am unable to perform my duties effectively and believe it is in the best interest of the team and the company for me to take a temporary leave of absence.",
+        "Status":""
+    },
+    {
+        "id":2,
+        "name":"Vincy",
+        "department":"Information Technology",
+        "Reason":"I hope this message finds you well. I am writing to request leave from work on 12.02.2024 due to personal reasons that require my presence at the bank.",
+        "Status":""
+    }
+]
